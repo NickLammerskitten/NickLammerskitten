@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NickLammerskitten
 - 👀 I’m interested in Coding and Powerlifting
-- 🌱 I’m currently learning C# and MySql
+- 🌱 I’m currently learning C# and Google Cloud
 - 💞️ I’m actually looking to collaborate on nothing
 
 <!---
